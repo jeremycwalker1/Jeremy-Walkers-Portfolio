@@ -1045,14 +1045,20 @@ textarea {
   }
 
   .page-header {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-  }
+  position: fixed;
+  z-index: 10;
+  background-color: white;
+  border-bottom: 1px solid #234099;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-animation: slide-out 3s;
+  animation: slide-out 3s;
+}
 
   .page-header a {
     height: 35px;
