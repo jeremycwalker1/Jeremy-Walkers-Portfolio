@@ -1052,7 +1052,7 @@ textarea {
   }
 
   .page-header a {
-    height: 70px;
+    height: 35px;
   }
 
   .profile__portrait {
@@ -1199,7 +1199,7 @@ textarea {
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
     flex-direction: row;
-    height: 55px;
+    height: 75px;
     padding: 8px;
     padding-bottom: 3px;
     width: 100vw;
