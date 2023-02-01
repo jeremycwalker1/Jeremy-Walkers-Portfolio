@@ -1211,8 +1211,8 @@ textarea {
     -ms-flex-direction: row;
     flex-direction: row;
     height: 70px;
-    padding: 8px;
-    padding-bottom: 3px;
+    padding: 1px;
+    padding-bottom: 1px;
     width: 100vw;
   }
 
