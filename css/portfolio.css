@@ -590,6 +590,7 @@ h3 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  height: 70px;
   width: 100%;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -945,7 +946,7 @@ textarea {
   img.page-header__item {
     background-size: contain !important;
     display: block;
-    height: 40px;
+    height: 70px;
     margin: auto;
     text-indent: -9999px;
     max-width: 300px;
