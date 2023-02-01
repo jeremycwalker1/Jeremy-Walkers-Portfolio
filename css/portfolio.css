@@ -1195,7 +1195,7 @@ textarea {
   img.page-header__item {
     background-size: contain !important;
     display: block;
-    height: 70px;
+    height: 40px;
     margin: auto;
     text-indent: -9999px;
     max-width: 300px;
